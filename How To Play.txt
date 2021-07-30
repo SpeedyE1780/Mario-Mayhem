@@ -1,0 +1,4 @@
+Use the left and right keys to move
+
+In classic mode collect all the falling players
+In arcade mode collect all players of the same faction the joker randomly changes faction
